@@ -1,0 +1,19 @@
+Month: July
+Budget for the month: $3000.0
+
+Transactions:
+• $1200.0 - rent
+• $10.0 - cafe
+• $1.0 - dollarma
+• $40.0 - phone bill
+• $35.0 - groceries
+• $25.0 - ubereats
+• $10.0 - cafe
+• $15.0 - cinema
+• $20.0 - shopping
+• $25.0 - groceries
+• $20.0 - ubereats
+• $5.0 - dollarama
+
+Balance: $1594.0
+You are within your budget.
